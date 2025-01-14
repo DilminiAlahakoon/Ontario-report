@@ -1,1 +1,1 @@
-WEe plotted temperature and cell abandance. 
+We plotted temperature and cell abandance. Add information on points.
